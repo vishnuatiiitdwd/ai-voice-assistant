@@ -4,7 +4,7 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"message": "Hello, FastAPI!"}
+    return {"message": "Hello, FastAP!"}
 
 @app.get("/add")
 def add(a: int, b: int):
