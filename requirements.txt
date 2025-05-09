@@ -1,0 +1,9 @@
+streamlit
+torch
+whisper
+soundfile
+requests
+audio_recorder_streamlit
+langchain
+langchain-community
+nest_asyncio
